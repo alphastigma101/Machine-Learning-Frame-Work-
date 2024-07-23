@@ -6,6 +6,8 @@
 
 
 # Source
+* **Pytorch**:
+    * *https://pytorch.org/tutorials/beginner/introyt/tensors_deeper_tutorial.html*
 * **Python Pandas**:
     * *https://www.shanelynn.ie/using-pandas-dataframe-creating-editing-viewing-data-in-python/*
 * **Split DataFrames**:
